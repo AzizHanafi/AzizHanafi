@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about creating modern web experienc
 
 ## 🚀 About Me
 
-- 🎮 Currently working on **NexGeneration** - a modern e-sports website
+- 🎮 Focused on creating responsive websites and user experiences
 - 💡 Learning and experimenting with **responsive web design** and **user experience**
 - 🔧 Building custom solutions with **HTML, CSS, and JavaScript**
 - 📱 Focused on creating **mobile-first, accessible web applications**
