@@ -43,8 +43,4 @@ Welcome to my GitHub profile! I'm passionate about creating modern web experienc
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Feayes&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
 **"Building the web, one commit at a time."** ✨
